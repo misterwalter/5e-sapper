@@ -1,5 +1,5 @@
 # 5e-sapper
-Homebrew Dungeons and Dragons Fifth Edition Class
+Homebrew Dungeons and Dragons Fifth Edition Class, loosely based on the [Unearthed Arcana Artificer](https://media.wizards.com/2016/dnd/downloads/1_UA_Artificer_20170109.pdf) from a while back.
 
 Sappers are volatile explosives experts that rely on a seemingly endless supply of improvised alchemical explosives. They have a cursory understanding of magic, and have a handful of spells that can be cleverly used to great effect.
 
@@ -113,7 +113,7 @@ Level | Knockback
 ## Quick Learner
 Sappers are highly adaptable. At each even numbered level, you gain proficiency in another type of tools, or a single weapon.
 
-## Stablize
+## Stabilize
 Starting at second level, you can spend a bonus action to deactivate one held concoction, thereby preventing it from activating at the end of your turn.
 
 ## Expertise
@@ -129,3 +129,5 @@ Starting at fifth level, your proficiency bonus is doubled for all of your tool 
   - Demolitions explosives
   - Crystalline Instant Barricades
 - Spells!
+
+##### Legal Note: I can't imagine WotC has a problem with this being up, but if you are from WotC and you don't like this, just shoot me a message somehow and let me know.
