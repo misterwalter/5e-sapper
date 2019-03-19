@@ -139,6 +139,5 @@ Starting at fifth level, your proficiency bonus is doubled for all of your tool 
   - Grease slick (potentially flammable)
   - Demolitions explosives
   - Crystalline Instant Barricades
-- Spells!
 
 ##### Legal Note: I can't imagine WotC has a problem with this being up, but if you are from WotC and you don't like this, just shoot me a message somehow and let me know.
