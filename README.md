@@ -32,7 +32,7 @@ Level| Proficiency Bonus | Features | Concoctions Known | Quick Learner Proficie
 2nd  | +2 | Stabilize, Quick Learner | 2 | 1 | 0 | 
 3rd  | +2 | | 3 | 1 | 0 | 
 4th  | +2 | Ability Score Improvement | 3 | 2 | 0 | 
-5th  | +3 | Tool Expertise | 3 | 2 | 0 | 
+5th  | +3 | Tool Expertise, Magical Pragmatist | 3 | 2 | 0 | 
 6th  | +3 |  | 3 | 3 | 0 | 
 7th  | +3 |  | 3 | 3 | 0 | 
 8th  | +3 | Ability Score Improvement | 3 | 4 | 0 | 
@@ -114,13 +114,15 @@ Level | Knockback
 Sappers are highly adaptable. At each even numbered level, you gain proficiency in another type of tools, or a single weapon.
 
 ## Stabilize
-Starting at second level, you can spend a bonus action to deactivate one held concoction, thereby preventing it from activating at the end of your turn.
+Starting at second level, you can spend a bonus action to deactivate one held concoction, thereby preventing it from activating at the end of your turn. You can keep doing so turn after turn if you desire, but you cannot permanently stymie the reaction.
+
+## Magical Pragmatist
+Over time, Alchemists gain a sense of exactly how much magic is required to get the job done. Starting at fifth level, you can use this knowledge to attune to one additional magic item at a time.
 
 ## Expertise
 Starting at fifth level, your proficiency bonus is doubled for all of your tool proficiencies.
 
 # Known Bugs/Upcoming Features
-
 - Concoctions should be readiable for the purposes of ambushes, and should be active at the end of your turn so that you can  accidentally drop them on yourself and your friends. However, it should not be possible to let your turn end, and then use a readied action to use a concoction that you've just begun making that turn.
 - More concoctions should be added. A few undeveloped ideas are:
   - Alchemical Acid that reduces the target's AC and saves, or perhaps just gives us advantage on hits against them.
