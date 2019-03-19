@@ -95,7 +95,7 @@ Level | Simultaneous Smokes
 16-20 | 5 smoke
 
 #### Fulminated Whoopass
-Yeah, there's a technical term, but most don't use it. You make these out of just about anything in your supplies, so long as you crush it up good, and when you throw it up to 30 feet, it blows everything that fails a Constitution save back a good couple feet from wherever it hit. Creatures that hit walls or other solid obstructions before they complete their flight fall prone.
+Yeah, there's a technical term, but most don't use it. You make these out of just about anything in your supplies, and so long as you crush it up good, you can throw it up to 30 feet. It blows everything in a 15 foot diameter blast zone that fails a Constitution save back a good couple feet from wherever it hit. Creatures that hit walls or other solid obstructions before they complete their flight fall prone.
 
 Level | Knockback
 ----- | ------
