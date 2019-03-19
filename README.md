@@ -26,28 +26,28 @@ Light Crossbow OR Shortbow OR 25 Spears |
 Explorer's Pack OR Scholar's Pack |
 
 # Level Table
-Level| Proficiency Bonus | Features | Concoctions Known | Spells Known | Spells (1st) | Spells (2nd) | Spells (3rd)
------| ----------- | -------- | -------------- | ------------ | ---------------- | ---------------- | ----------------
-1st  | +2 | Unstable Alchemy, Magical Analysis | 2 | 0 | 
-2nd  | +2 | Stabilize, Quick Learner | 2 | 0 | 
-3rd  | +2 | Additional Concoction | 3 | 0 | 
-4th  | +2 | Ability Score Improvement, Quick Learner | 3 | 0 | 
-5th  | +3 | Tool Expertise | 3 | 0 | 
-6th  | +3 | Quick Learner | 3 | 0 | 
-7th  | +3 |  | 3 | 0 | 
-8th  | +3 | Ability Score Improvement, Quick Learner | 3 | 0 | 
-9th  | +4 | Additional Concoction | 4 | 0 | 
-10th | +4 | Quick Learner | 4 | 0 | 
-11th | +4 |  | 4 | 0 | 
-12th | +4 | Ability Score Improvement, Quick Learner | 4 | 0 | 
-13th | +5 |  | 4 | 0 | 
-14th | +5 | Additional Concoction, Quick Learner | 5 | 0 | 
-15th | +5 |  | 5 | 0 | 
-16th | +5 | Ability Score Improvement, Quick Learner | 5 | 0 | 
-17th | +6 | Additional Concoction | 6 | 0 | 
-18th | +6 | Quick Learner | 6 | 0 | 
-19th | +6 |  | 6 | 0 | 
-20th | +6 | Ability Score Improvement, Quick Learner | 6 | 0 | 
+Level| Proficiency Bonus | Features | Concoctions Known | Quick Learner Proficiencies | Spells Known | Spells (1st) | Spells (2nd) | Spells (3rd)
+-----| ----------------- | -------- | ----------------- | --------------------------- | ------------ | ------------ | ------------ | ------------
+1st  | +2 | Unstable Alchemy, Magical Analysis | 2 | 0 | 0 | 
+2nd  | +2 | Stabilize, Quick Learner | 2 | 1 | 0 | 
+3rd  | +2 | Additional Concoction | 3 | 1 | 0 | 
+4th  | +2 | Ability Score Improvement | 3 | 2 | 0 | 
+5th  | +3 | Tool Expertise | 3 | 2 | 0 | 
+6th  | +3 |  | 3 | 3 | 0 | 
+7th  | +3 |  | 3 | 3 | 0 | 
+8th  | +3 | Ability Score Improvement | 3 | 4 | 0 | 
+9th  | +4 | Additional Concoction | 4 | 4 | 0 | 
+10th | +4 |  | 4 | 5 | 0 | 
+11th | +4 |  | 4 | 5 | 0 | 
+12th | +4 | Ability Score Improvement | 4 | 6 | 0 | 
+13th | +5 |  | 4 | 6 | 0 | 
+14th | +5 | Additional Concoction | 5 | 7 | 0 | 
+15th | +5 |  | 5 | 7 | 0 | 
+16th | +5 | Ability Score Improvement | 5 | 8 | 0 | 
+17th | +6 | Additional Concoction | 6 | 8 | 0 | 
+18th | +6 |  | 6 | 9 | 0 | 
+19th | +6 |  | 6 | 9 | 0 | 
+20th | +6 | Ability Score Improvement | 6 | 10 | 0 | 
 
 
 # Class Features
