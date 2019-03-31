@@ -29,25 +29,25 @@ Explorer's Pack OR Scholar's Pack |
 Level| Proficiency Bonus | Features | Concoctions Known | Quick Learner Proficiencies | Spells Known | Spells (1st) | Spells (2nd) | Spells (3rd)
 -----| ----------------- | -------- | ----------------- | --------------------------- | ------------ | ------------ | ------------ | ------------
 1st  | +2 | Unstable Alchemy, Magical Analysis | 2 | 0 | - | - | - | - |
-2nd  | +2 | Stabilize, Quick Learner | 2 | 1           | - | - | - | - |
-3rd  | +2 | Spellcasting | 3 | 1                       | 2 | 2 | - | - |
-4th  | +2 | Ability Score Improvement | 3 | 2          | 3 | 2 | - | - |
-5th  | +3 | Tool Expertise, Magical Pragmatist | 3 | 2 | 3 | 3 | - | - |
-6th  | +3 |  | 3 | 3                                   | 3 | 4 | - | - |
-7th  | +3 |  | 3 | 3                                   | 4 | 4 | 2 | - |
-8th  | +3 | Ability Score Improvement | 3 | 4          | 4 | 4 | 3 | - |
-9th  | +4 | | 4 | 4                                    | 5 | 4 | 3 | - |
-10th | +4 |  | 4 | 5                                   | 6 | 4 | 3 | - |
-11th | +4 |  | 4 | 5                                   | 7 | 4 | 3 | - |
-12th | +4 | Ability Score Improvement | 4 | 6          | 7 | 4 | 4 | - |
-13th | +5 |  | 4 | 6                                   | 7 | 4 | 4 | 2 |
-14th | +5 |  | 5 | 7                                   | 8 | 4 | 4 | 2 |
-15th | +5 |  | 5 | 7                                   | 9 | 4 | 4 | 2 |
-16th | +5 | Ability Score Improvement | 5 | 8          | 9 | 4 | 4 | 3 |
-17th | +6 |  | 6 | 8                                   | 10 | 4 | 4 | 3 |
-18th | +6 |  | 6 | 9                                   | 11 | 4 | 4 | 4 |
-19th | +6 |  | 6 | 9                                   | 12 | 4 | 4 | 4 |
-20th | +6 | Ability Score Improvement | 6 | 10         | 13 | 4 | 4 | 4 |
+2nd  | +2 | Stabilize, Quick Learner | 2 | **1**           | - | - | - | - |
+3rd  | +2 | Spellcasting | **3** | 1                       | **2** | **2** | - | - |
+4th  | +2 | Ability Score Improvement | 3 | **2**          | **3** | 2 | - | - |
+5th  | **+3** | Tool Expertise, Magical Pragmatist | 3 | 2 | 3 | **3** | - | - |
+6th  | +3 |  | 3 | **3**                                   | 3 | **4** | - | - |
+7th  | +3 |  | 3 | 3                                   | **4** | 4 | **2** | - |
+8th  | +3 | Ability Score Improvement | 3 | **4**          | 4 | 4 | **3** | - |
+9th  | **+4** | | **4** | 4                                    | **5** | 4 | 3 | - |
+10th | +4 |  | 4 | 5                                   | **6** | 4 | 3 | - |
+11th | +4 |  | 4 | **5**                                   | **7** | 4 | 3 | - |
+12th | +4 | Ability Score Improvement | 4 | 6          | 7 | 4 | **4** | - |
+13th | **+5** |  | **4** | **6**                                   | 7 | 4 | 4 | **2** |
+14th | +5 |  | 5 | 7                                   | **8** | 4 | 4 | 2 |
+15th | +5 |  | 5 | 7                                   | **9** | 4 | 4 | 2 |
+16th | +5 | Ability Score Improvement | 5 | **8**          | 9 | 4 | 4 | **3** |
+17th | **+6** |  | **6** | 8                                   | **1**0 | 4 | 4 | 3 |
+18th | +6 |  | 6 | **9**                                   | **11** | 4 | 4 | **4** |
+19th | +6 |  | 6 | 9                                   | **12** | 4 | 4 | 4 |
+20th | +6 | Ability Score Improvement | 6 | **10**         | **13** | 4 | 4 | 4 |
 
 
 # Class Features
